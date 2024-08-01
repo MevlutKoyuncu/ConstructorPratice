@@ -1,0 +1,7 @@
+C:\Users\Mevlüt\source\repos\ProductStockControl2\ProductStockControl2\bin\Debug\ProductStockControl2.exe.config
+C:\Users\Mevlüt\source\repos\ProductStockControl2\ProductStockControl2\bin\Debug\ProductStockControl2.exe
+C:\Users\Mevlüt\source\repos\ProductStockControl2\ProductStockControl2\bin\Debug\ProductStockControl2.pdb
+C:\Users\Mevlüt\source\repos\ProductStockControl2\ProductStockControl2\obj\Debug\ProductStockControl2.csproj.AssemblyReference.cache
+C:\Users\Mevlüt\source\repos\ProductStockControl2\ProductStockControl2\obj\Debug\ProductStockControl2.csproj.CoreCompileInputs.cache
+C:\Users\Mevlüt\source\repos\ProductStockControl2\ProductStockControl2\obj\Debug\ProductStockControl2.exe
+C:\Users\Mevlüt\source\repos\ProductStockControl2\ProductStockControl2\obj\Debug\ProductStockControl2.pdb

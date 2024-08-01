@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mevl\u00FCt\\source\\repos\\ProductStockControl2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B26CC0D4-41EB-4094-A2BC-76C4BD422D67}|ProductStockControl2\\ProductStockControl2.csproj|C:\\Users\\Mevl\u00FCt\\source\\repos\\ProductStockControl2\\productstockcontrol2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26CC0D4-41EB-4094-A2BC-76C4BD422D67}|ProductStockControl2\\ProductStockControl2.csproj|solutionrelative:productstockcontrol2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26CC0D4-41EB-4094-A2BC-76C4BD422D67}|ProductStockControl2\\ProductStockControl2.csproj|C:\\Users\\Mevl\u00FCt\\source\\repos\\ProductStockControl2\\productstockcontrol2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26CC0D4-41EB-4094-A2BC-76C4BD422D67}|ProductStockControl2\\ProductStockControl2.csproj|solutionrelative:productstockcontrol2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26CC0D4-41EB-4094-A2BC-76C4BD422D67}|ProductStockControl2\\ProductStockControl2.csproj|c:\\users\\mevl\u00FCt\\source\\repos\\productstockcontrol2\\productstockcontrol2\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26CC0D4-41EB-4094-A2BC-76C4BD422D67}|ProductStockControl2\\ProductStockControl2.csproj|solutionrelative:productstockcontrol2\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Market.cs",
+              "DocumentMoniker": "C:\\Users\\Mevl\u00FCt\\source\\repos\\ProductStockControl2\\ProductStockControl2\\Market.cs",
+              "RelativeDocumentMoniker": "ProductStockControl2\\Market.cs",
+              "ToolTip": "C:\\Users\\Mevl\u00FCt\\source\\repos\\ProductStockControl2\\ProductStockControl2\\Market.cs",
+              "RelativeToolTip": "ProductStockControl2\\Market.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:58:03.604Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mevl\u00FCt\\source\\repos\\ProductStockControl2\\ProductStockControl2\\Program.cs",
+              "RelativeDocumentMoniker": "ProductStockControl2\\Program.cs",
+              "ToolTip": "C:\\Users\\Mevl\u00FCt\\source\\repos\\ProductStockControl2\\ProductStockControl2\\Program.cs",
+              "RelativeToolTip": "ProductStockControl2\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwCAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:40:03.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Mevl\u00FCt\\source\\repos\\ProductStockControl2\\ProductStockControl2\\Product.cs",
+              "RelativeDocumentMoniker": "ProductStockControl2\\Product.cs",
+              "ToolTip": "C:\\Users\\Mevl\u00FCt\\source\\repos\\ProductStockControl2\\ProductStockControl2\\Product.cs",
+              "RelativeToolTip": "ProductStockControl2\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:56:21.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
